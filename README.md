@@ -1,2 +1,2 @@
 # knn
-Algoritthm for K Nearest Neighbor
+Code for K Nearest Neighbor Algorithm
